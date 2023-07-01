@@ -8,10 +8,11 @@
 Python 3.10.4
 ```
 ### Setup
-If you do not have the required libraries installed, you can do it by running command below in your terminal
-```
-pip3 install -r requirements.txt
-```
+- If you do not have the required libraries installed, you can do it by running command below in your terminal
+    ```
+    pip3 install -r requirements.txt
+    ```
+- Create a folder named `tmp` in this directory
 ### Steps
 - To scrape all the regions, simply run
     ```
